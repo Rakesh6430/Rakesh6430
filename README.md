@@ -9,7 +9,7 @@
 - Always try to give my best to complete a given task
 - A positive and enthusiastic attitude to my work
 - 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
-- You can find my portfolio [@rakesh.portoflio](https://rakesh6430.github.io/rakesh.portfolio/)
+- 📄 You can find my portfolio [@rakesh.portoflio](https://rakesh6430.github.io/rakesh.portfolio/)
 
 ### You can connect with me :
 
