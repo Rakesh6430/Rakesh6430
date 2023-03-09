@@ -25,8 +25,7 @@ Looking for a challenging career with a progressive software company that can ge
 
 
 ![Profile views](https://gpvc.arturio.dev/Rakesh6430) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rakesh6430)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430=true)](https://github.com/Rakesh6430/github-readme-stats)
 
 
 - 🔭 I’m currently working on this page. 
