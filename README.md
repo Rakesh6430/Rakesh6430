@@ -17,6 +17,9 @@ Manual Testing / Black Box Testing / Functional Testing / Non-Functional Testing
 
 ![Profile views](https://gpvc.arturio.dev/Rakesh6430) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rakesh6430)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 🔭 I’m currently working on this page. 
 
 
