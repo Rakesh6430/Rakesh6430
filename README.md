@@ -3,8 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+Software+Quality+Assurance+Enthusiastic.)](https://git.io/typing-svg)
 
-<h1 style="color:blue;">  Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.</h1>
-
+<p style="color:red;">Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.</p>
 
 <span style="font-family: 'Lucida Console' font color: `#f03c15`">  
 
