@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+Software+Quality+Assurance+Enthusiastic.)](https://git.io/typing-svg) 
 - Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
 - 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
-- You can find my research gate profile [https://www.researchgate.net/profile/Rakesh-Paul-4](https://www.researchgate.net/profile/Rakesh-Paul-4))
+- You can find my research gate profile [https://www.researchgate.net/profile/Rakesh-Paul-4](https://www.researchgate.net/profile/Rakesh-Paul-4)
 
 
 ### Skills: 
