@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakesh6430)  
+
 
 
 ### You can connect with me :
@@ -26,7 +26,7 @@
 
 
 
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakesh6430)  
 
 ![Profile views](https://gpvc.arturio.dev/Rakesh6430)
 - 🔭 I’m currently working on this page. 
