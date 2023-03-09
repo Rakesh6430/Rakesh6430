@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2373AE&width=600&lines=Software+Quality+Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=6000&pause=&color=9AAD24&vCenter=true&multiline=true&width=600&height=60&lines=Software+Quality+Assurance+Enthusiastic+from+Bangladesh.)](https://git.io/typing-svg)
+
 
 
 - Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
