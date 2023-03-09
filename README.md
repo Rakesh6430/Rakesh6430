@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4000&pause=&color=AE4E27FF&vCenter=true&multiline=true&width=600&height=60&lines=A+Software+Quality+Assurance+Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
 
+![Profile views](https://gpvc.arturio.dev/Rakesh6430)
 - Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
 - ⚡ An honest, reliable, and disciplined approach to my work
 - ⚡ The ability to follow the rules and procedures
@@ -65,7 +66,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakesh6430)  
 
-![Profile views](https://gpvc.arturio.dev/Rakesh6430)
+
 - 🔭 I’m currently working on this page. 
 
 
