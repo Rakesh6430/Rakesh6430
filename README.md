@@ -31,11 +31,11 @@
 
    - Sound knowledge in Smoke Testing, Sanity Testing
 
-●  Performance Testing Tool: Jira
+### ●  Performance Testing Tool: Jira
 
-●  API & Load Testing Tool using Postman & Newman
+### ●  API & Load Testing Tool using Postman & Newman
 
-●  Source & Version Control: Git
+### ●  Source & Version Control: Git
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
