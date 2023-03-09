@@ -14,7 +14,7 @@ Looking for a challenging career with a progressive software company that can ge
 - Black Box Testing 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can connect with me :
 
