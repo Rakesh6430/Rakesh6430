@@ -17,13 +17,13 @@
 
 ● Manual Testing:
 
-- Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing,       Writing Test Plans, Developing Test Cases, Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution &  Evaluation, Writing Bug Reports & Test     Reports, Doing Root Cause Analysis
+   - Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing,        Writing Test Plans, Developing Test Cases, Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution &  Evaluation, Writing Bug Reports & Test      Reports, Doing Root Cause Analysis
 
-- Good knowledge of White Box Testing and Black Box Testing
+   - Good knowledge of White Box Testing and Black Box Testing
 
-- Good knowledge of SDLC, STLC, Regression Testing, and Retesting
--
--  Sound knowledge in Smoke Testing, Sanity Testing
+   - Good knowledge of SDLC, STLC, Regression Testing, and Retesting
+
+   - Sound knowledge in Smoke Testing, Sanity Testing
 
 ●  Performance Testing Tool: Jira
 
