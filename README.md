@@ -1,12 +1,12 @@
 
 
-# Hi there 👋, I'm Rakesh Roshan Paul
+### Hi there 👋, I'm Rakesh Roshan Paul
 #### Software Quality Assurance Enthusiastic
 
 Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
 
 
-## Skills: 
+### Skills: 
 
 - Manual Testing
 - Functional Testing 
@@ -16,7 +16,7 @@ Looking for a challenging career with a progressive software company that can ge
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## You can connect with me :
+### You can connect with me :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
