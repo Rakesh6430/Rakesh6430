@@ -33,7 +33,7 @@
 
 ### 📌 Performance Testing Tool: Jira
 
-### 📌 API & Load Testing Tool using Postman & Newman
+### 📌 API & Load Testing Tool: Postman & Newman
 
 ### 📌 Source & Version Control: Git
 
