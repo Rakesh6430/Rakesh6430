@@ -15,7 +15,7 @@ Manual Testing / Black Box Testing / Functional Testing / Non-Functional Testing
 ### You can connect with me :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakesh6430/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakesh.roshanpaul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakesh-roshan-paul-343939143/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Rakesh-Paul-4)  
 
-
+![Profile views](https://gpvc.arturio.dev/Rakesh6430) 
 
 - 🔭 I’m currently working on this page. 
 
