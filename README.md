@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+Software+Quality+Assurance+Enthusiastic.)](https://git.io/typing-svg) 
-- 📌Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
-- 📌An honest, reliable, and disciplined approach to my work
-- 📌The ability to follow the rules and procedures
-- 📌An ability to be honest with my colleagues 
-- 📌Always try to give my best to complete a given task
-- 📌A positive and enthusiastic attitude to my work
+- Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
+- An honest, reliable, and disciplined approach to my work
+- The ability to follow the rules and procedures
+- An ability to be honest with my colleagues 
+- Always try to give my best to complete a given task
+- A positive and enthusiastic attitude to my work
 - 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
 - 📄 You can find my portfolio [@rakesh.portoflio](https://rakesh6430.github.io/rakesh.portfolio/)
 
@@ -21,7 +21,7 @@
 <h2 align="left">Skills:</h2>
 
 
-### ● Manual Testing:
+### 📌 Manual Testing:
 
    - Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing,        Writing Test Plans, Developing Test Cases, Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution &  Evaluation, Writing Bug Reports & Test      Reports, Doing Root Cause Analysis
 
@@ -31,11 +31,11 @@
 
    - Sound knowledge in Smoke Testing, Sanity Testing
 
-### ●  Performance Testing Tool: Jira
+### 📌 Performance Testing Tool: Jira
 
-### ●  API & Load Testing Tool using Postman & Newman
+### 📌 API & Load Testing Tool using Postman & Newman
 
-### ●  Source & Version Control: Git
+### 📌 Source & Version Control: Git
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
