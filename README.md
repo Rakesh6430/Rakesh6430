@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+Software+Quality+Assurance+Enthusiastic.)](https://git.io/typing-svg) 
-📌 Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
-📌 An honest, reliable, and disciplined approach to my work
-📌 The ability to follow the rules and procedures
-📌 An ability to be honest with my colleagues 
-📌 Always try to give my best to complete a given task
-📌 A positive and enthusiastic attitude to my work
-📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
-📄 You can find my portfolio [@rakesh.portoflio](https://rakesh6430.github.io/rakesh.portfolio/)
+-📌 Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
+-📌 An honest, reliable, and disciplined approach to my work
+-📌 The ability to follow the rules and procedures
+-📌 An ability to be honest with my colleagues 
+-📌 Always try to give my best to complete a given task
+-📌 A positive and enthusiastic attitude to my work
+-📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
+-📄 You can find my portfolio [@rakesh.portoflio](https://rakesh6430.github.io/rakesh.portfolio/)
 
 ### You can connect with me :
 
