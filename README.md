@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Rakesh6430/Rakesh6430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Rakesh Roshan Paul
+#### Software Quality Assurance Enthusiastic
+![Software Quality Assurance Enthusiastic](https://rakesh6430.github.io/rakesh.portfolio/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: Manual Testing / Black Box Testing / Functional Testing / Non-Functional Testing 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
