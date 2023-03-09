@@ -15,10 +15,22 @@
 
 ### Skills: 
 
-- Manual Testing
-- Functional Testing 
-- Non-Functional Testing 
-- Black Box Testing 
+● Manual Testing:
+
+      -> Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing, Writing Test Plans, Developing Test Cases, Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution &  Evaluation, Writing Bug Reports & Test Reports, Doing Root Cause Analysis
+
+      -> Good knowledge of White Box Testing and Black Box Testing
+
+      ->  Good knowledge of SDLC, STLC, Regression Testing, and Retesting
+
+      ->  Sound knowledge in Smoke Testing, Sanity Testing
+
+●  Performance Testing Tool: Jira
+
+●  API & Load Testing Tool using Postman & Newman
+
+●  Source & Version Control: Git
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
