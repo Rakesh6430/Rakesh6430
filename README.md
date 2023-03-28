@@ -32,9 +32,11 @@
 
    - Sound knowledge in Smoke Testing, Sanity Testing
 
-### 📌 Performance Testing Tool: Jira
+### 📌 Performance Testing Tool: JMeter
 
-### 📌 API & Load Testing Tool: Postman & Newman
+### 📌 API & Load Testing Tool: Postman & Newman 
+
+### 📌 Project Management Tool: Jira
 
 ### 📌 Source & Version Control: Git
 
