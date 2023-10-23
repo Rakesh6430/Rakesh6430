@@ -41,7 +41,7 @@
    - Postman & Newman 
 
 ### 📌 Project Management Tool: 
-   - Jira
+   - Jira, ClickUp
 
 ### 📌 Source & Version Control: 
    - Git
