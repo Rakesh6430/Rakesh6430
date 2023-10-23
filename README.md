@@ -34,14 +34,18 @@
 
    - Sound knowledge in Smoke Testing, Sanity Testing
 
-### 📌 Performance & Load Testing Tool: JMeter
+### 📌 Performance & Load Testing Tool: 
+   - JMeter
 
-### 📌 API Testing Tool: Postman & Newman 
+### 📌 API Testing Tool: 
+   - Postman & Newman 
 
-### 📌 Project Management Tool: Jira
+### 📌 Project Management Tool: 
+   - Jira
 
-### 📌 Source & Version Control: Git
-
+### 📌 Source & Version Control: 
+   - Git
+     
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">                                                                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
