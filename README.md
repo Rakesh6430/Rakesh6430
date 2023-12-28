@@ -28,32 +28,6 @@
 </a>
 </p>
 
-<h2 align="left">Skills:</h2>
-
-
-### 📌 Manual Testing:
-
-   - Having the ability of Gathering and Analyzing Requirements, Doing Unit Testing, Doing Integration Testing, Doing System Testing, Doing User Acceptance Testing,        Writing Test Plans, Developing Test Cases
-   
-   - Writing Negative Test Cases, Developing Test Scenarios, Doing Test Execution &  Evaluation, Writing Bug Reports & Test      Reports, Doing Root Cause Analysis
-
-   - Good knowledge of White Box Testing and Black Box Testing
-
-   - Good knowledge of SDLC, STLC, Regression Testing, and Retesting
-
-   - Sound knowledge in Smoke Testing, Sanity Testing
-
-### 📌 Performance & Load Testing Tool: 
-   - JMeter
-
-### 📌 API Testing Tool: 
-   - Postman & Newman 
-
-### 📌 Project Management Tool: 
-   - Jira, ClickUp
-
-### 📌 Source & Version Control: 
-   - Git
      
 <h2 align="left">Languages and Tools:</h2>
 
