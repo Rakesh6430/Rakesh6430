@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
-<div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
-</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=600&height=60&lines=A+Software+Quality+Assurance+Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
 
