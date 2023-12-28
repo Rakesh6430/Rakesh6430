@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=600&height=60&lines=A+Software+Quality+Assurance+Enthusiastic+from+Bangladesh)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
@@ -14,6 +14,7 @@
 - ⚡ A positive and enthusiastic attitude to my work
 - 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
 - 📄 You can find my portfolio [@rakeshsqa.portoflio](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
+  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 ### You can connect with me :
 
