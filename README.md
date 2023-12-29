@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
-- Looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
+- Always looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
 - ⚡ An honest, reliable, and disciplined approach to my work
 - ⚡ The ability to follow the rules and procedures
 - ⚡ An ability to be honest with my colleagues 
