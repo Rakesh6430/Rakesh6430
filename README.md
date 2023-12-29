@@ -16,7 +16,7 @@
 - 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
 - 📄 You can find my portfolio [@rakeshsqa.portoflio](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
   
-### You can connect with me :
+### Can reach me :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
