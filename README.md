@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%253CC5AC&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rakesh+Roshan+Paul" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%C5ADADAC&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rakesh+Roshan+Paul" />
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
