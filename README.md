@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rakesh+Roshan+Paul" />
-</h3>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Rakesh+Roshan+Paul" />
+</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
