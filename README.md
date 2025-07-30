@@ -19,7 +19,9 @@
 
  🎯 Dedicated to delivering high-quality results, always striving to exceed expectations.
 
- 🌟 Bring a positive and enthusiastic attitude to every project I work on.
+ 🌟 Bring a positive and enthusiastic attitude to every project I work on
+ 
+ 🔭 I’m currently working and learning automation using Playwright
   
 ### 📫 You Can Reach Me
 
@@ -69,7 +71,7 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakesh6430)  
 
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
