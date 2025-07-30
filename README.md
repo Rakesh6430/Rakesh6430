@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
- 🚀 I'm always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
+ 🚀 Always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
 
  ✅ Known for being honest, reliable, and disciplined in my work ethic.
 
- 🧭 I strictly adhere to processes, guidelines, and team standards.
+ 🧭 Strictly adhere to processes, guidelines, and team standards.
 
  🤝 Believe in transparency, integrity, and open communication with colleagues.
 
@@ -23,7 +23,7 @@
 
  🌟 Bring a positive and enthusiastic attitude to every project I work on
  
- 🔭 I’m currently working and learning automation using Playwright
+ 🔭 Currently working and learning automation using Playwright
   
 ### 📫 You Can Reach Me
 
