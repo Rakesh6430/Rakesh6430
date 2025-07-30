@@ -3,7 +3,7 @@
 </div>
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
-</div>
+
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=700&height=60&lines=Passionate+|+Curious+|+Learning+🚀)}](https://git.io/typing-svg)
 
@@ -73,7 +73,7 @@
 <!-- ![GitHub Streak Stats for Rakesh6430](https://streak-stats.demolab.com/?user=Rakesh6430) -->
 
 
-
+</div>
 
 
 
