@@ -9,14 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
-- Always looking for a challenging career with a progressive software company that can get benefit from my technical skills and abilities in the field of Software Testing.
-- ⚡ An honest, reliable, and disciplined approach to my work
-- ⚡ The ability to follow the rules and procedures
-- ⚡ An ability to be honest with my colleagues 
-- ⚡ Always try to give my best to complete a given task
-- ⚡ A positive and enthusiastic attitude to my work
-- 📫 You can reach me for any queries **rakeshroshanpaul@gmail.com**
-- 📄 You can find my portfolio [@rakeshsqa.portoflio](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
+- 🚀 I'm always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
+
+- ✅ Known for being honest, reliable, and disciplined in my work ethic.
+
+- 🧭 I strictly adhere to processes, guidelines, and team standards.
+
+- 🤝 Believe in transparency, integrity, and open communication with colleagues.
+
+- 🎯 Dedicated to delivering high-quality results, always striving to exceed expectations.
+
+- 🌟 Bring a positive and enthusiastic attitude to every project I work on.
   
 ### Can reach me :
 
