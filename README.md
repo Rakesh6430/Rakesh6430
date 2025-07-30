@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
 </div>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=700&height=60&lines=Passionate+|+Curious+|+Learning+🚀)}](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=700&height=60&lines=Passionate+|+Curious+|+Learning+🚀)}](https://git.io/typing-svg)]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /></p>
