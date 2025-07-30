@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
- 🚀 Always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
+ 🚀 Always seeking a challenging role to contribute
 
  ✅ Known for being honest, reliable, and disciplined in my work ethic.
 
