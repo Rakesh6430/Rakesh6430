@@ -32,8 +32,9 @@
         alt="rakeshroshanpaul@gmail.com" height="30" width="80" />
 </a> -->
 📧 Email: rakeshroshanpaul@gmail.com
-🌐 Portfolio: rakeshsqa.portfolio
+
 </p>
+<p>🌐 Portfolio: rakeshsqa.portfolio</p>
 
      
 <h3 align="left">Languages and Tools:</h3>
