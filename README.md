@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh6430&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh6430" /> </p>
 
-- 🚀 I'm always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
+ 🚀 I'm always seeking a challenging role in a progressive software company where I can contribute my technical expertise in Software Testing and grow professionally.
 
-- ✅ Known for being honest, reliable, and disciplined in my work ethic.
+ ✅ Known for being honest, reliable, and disciplined in my work ethic.
 
-- 🧭 I strictly adhere to processes, guidelines, and team standards.
+ 🧭 I strictly adhere to processes, guidelines, and team standards.
 
-- 🤝 Believe in transparency, integrity, and open communication with colleagues.
+ 🤝 Believe in transparency, integrity, and open communication with colleagues.
 
-- 🎯 Dedicated to delivering high-quality results, always striving to exceed expectations.
+ 🎯 Dedicated to delivering high-quality results, always striving to exceed expectations.
 
  🌟 Bring a positive and enthusiastic attitude to every project I work on.
   
