@@ -62,7 +62,7 @@
 <!-- <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://brandfetch.com/playwright.dev?library=default&collection=logos&asset=idatEwS2TZ" alt="playwright" width="40" height="40"/> </a> -->
 <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code Logo" width="40" height="40"/>
 </a>
 
 </p>
