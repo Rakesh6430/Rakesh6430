@@ -57,7 +57,7 @@
 <!-- Playwright -->
 <!-- <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://brandfetch.com/playwright.dev?library=default&collection=logos&asset=idatEwS2TZ" alt="playwright" width="40" height="40"/> </a> -->
 <!-- Visual Studio -->
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Visual_Studio_Icon_2022.svg" alt="visual studio" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiovisualstudio-original.svg" alt="visual studio" width="40" height="40"/></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakesh6430)](https://github.com/anuraghazra/github-readme-stats)
