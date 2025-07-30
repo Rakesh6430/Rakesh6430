@@ -21,7 +21,8 @@
 
 - 🌟 Bring a positive and enthusiastic attitude to every project I work on.
   
-### Can reach me :
+### 📫 You Can Reach Me
+- Feel free to reach out for collaboration, questions, or opportunities related to QA, Software Testing, or Tech in general!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
