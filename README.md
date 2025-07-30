@@ -5,9 +5,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div align="center">
+
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4500&pause=2000&color=AE4E27FF&vCenter=true&multiline=true&width=700&height=60&lines=Passionate|Learning|Delivering)]          (https://git.io/typing-svg)
-</div>
 
 
 
