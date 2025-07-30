@@ -34,7 +34,7 @@
 📧 Email: rakeshroshanpaul@gmail.com
 
 </p>
-<p href="mailto:rakeshroshanpaul@gmail.com">🌐 Portfolio: rakeshsqa.portfolio</p>
+<p> 🌐 Portfolio: <ahref="mailto:rakeshroshanpaul@gmail.com">rakeshsqa.portfolio </a> </p>
 
      
 <h3 align="left">Languages and Tools:</h3>
