@@ -31,7 +31,7 @@
         src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
         alt="rakeshroshanpaul@gmail.com" height="30" width="80" />
 </a> -->
-📧 Email: rakeshroshanpaul@gmail.com
+📧 Email: <a href="mailto:rakeshroshanpaul@gmail.com">rakeshroshanpaul@gmail.com</a>
 
 </p>
 <p> 🌐 Portfolio: <ahref="mailto:rakeshroshanpaul@gmail.com">rakeshsqa.portfolio </a> </p>
