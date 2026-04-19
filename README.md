@@ -39,9 +39,9 @@
 
 ### 🧪 Testing Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="45"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-left:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="45" style="margin-left:10px"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="45" style="margin-left:10px"/>
 </p>
 
 ### 🗄️ Databases
