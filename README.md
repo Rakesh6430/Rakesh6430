@@ -67,7 +67,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="48" style="margin-left:10px"/>
 
   <!-- Claude (Anthropic) -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" height="40" style="margin-left:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="40" style="margin-left:10px"/>
 
   <!-- Gemini (Google - use generic Google AI fallback) -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" height="40" style="margin-left:10px"/>
