@@ -28,6 +28,20 @@
 - 🌐 Portfolio: https://rakesh6430.github.io/rakeshsqa.portfolio/index.html
 - 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/
 
+### Connect With Me
+
+<p align="left">
+  <a href="mailto:rakeshroshanpaul@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://rakesh6430.github.io/rakeshsqa-portfolio/index.html">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
