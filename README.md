@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Rakesh6430&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=tokyonight" />
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 ### 🧪 Testing Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postman" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="45"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" height="45"/>
