@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" style="margin-left:10px" />
   </a>
   <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-left:10px" />
   </a>
 </p>
 
