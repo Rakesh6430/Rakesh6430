@@ -47,7 +47,7 @@
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" style="margin-left:10px"/>
 </p>
 
 ### ⚙️ Tools & Platforms
