@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
 <h3 align="center">SQA Engineer | Automation Enthusiast | Playwright Learner 🚀</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=SQA+Engineer;Automation+with+Playwright;Always+Learning+🚀" />
-</p>
 
 ---
 
