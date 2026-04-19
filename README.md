@@ -51,6 +51,6 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I enjoy breaking things (testing 😉) to make software stronger!
+💡 I’m passionate about learning and exploring new opportunities!
 
 ---
