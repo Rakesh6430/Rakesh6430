@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </p>
 
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48"/>
