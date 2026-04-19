@@ -33,21 +33,30 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript, Python, Java, C/C++
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
+</p>
 
 ### 🧪 Testing Tools
-- Playwright (Learning 🚀)
-- Cypress
-- Postman
-- Manual Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
+</p>
 
 ### 🗄️ Databases
-- MySQL, SQL Server
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</p>
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub
-- Jira
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+</p>
+
+---
 
 ---
 
