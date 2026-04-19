@@ -59,7 +59,7 @@
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachejmeter/apachejmeter-original.svg" alt="JMeter" height="48" style="margin-left:10px">
+  <img src="https://jmeter.apache.org/images/asf-logo.png" alt="JMeter" height="48" style="margin-left:10px">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="40" style="margin-left:10px"/>
   
