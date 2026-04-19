@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://jmeter.apache.org/images/favicon.png" alt="JMeter" height="48" style="margin-left:10px">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="40" style="margin-left:10px"/>
+  <img src="https://www.google.com/imgres?q=clickup%20icons&imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F629e24d8974c5f2c1ceaa61f.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fclickup-logo-thumbnail&docid=NZqn2e2j8QiP6M&tbnid=bsqh7HIby4R3uM&vet=12ahUKEwj4oPCPwPqTAxV1RmwGHbocLycQnPAOegQIIxAB..i&w=384&h=384&hcb=2&ved=2ahUKEwj4oPCPwPqTAxV1RmwGHbocLycQnPAOegQIIxAB" height="40" style="margin-left:10px"/>
   
   <!-- ChatGPT (OpenAI) -->
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="48" style="margin-left:10px"/>
