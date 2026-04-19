@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/clickup.svg" height="40" style="margin-left:10px"/>
   
   <!-- ChatGPT (OpenAI) -->
-  <img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/78b5698a09bb29dbe0ea7ce4d043ace13bbb77f8" height="48" style="margin-left:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="48" style="margin-left:10px"/>
 
   <!-- Claude (Anthropic) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="40" style="margin-left:10px"/>
