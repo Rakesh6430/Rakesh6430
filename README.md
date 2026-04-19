@@ -58,7 +58,7 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jmeter" />
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="40" style="margin-left:10px"/>
