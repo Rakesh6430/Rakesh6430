@@ -39,7 +39,7 @@
 
 ### 🧪 Testing Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,cypressio,playwright" />
+  <img src="https://skillicons.dev/icons?i=postman,cypressio-original.svg,playwright-logo.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
 </p>
