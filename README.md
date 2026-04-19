@@ -12,6 +12,24 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh6430&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **rakeshroshanpaul@gmail.com**
+- 🌐 Portfolio: https://rakesh6430.github.io/rakeshsqa.portfolio/index.html
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -33,22 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh6430&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **rakeshroshanpaul@gmail.com**
-- 🌐 Portfolio: https://rakesh6430.github.io/rakeshsqa.portfolio/index.html
-- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/
-
----
 
 ## ⚡ Fun Fact
 💡 I’m passionate about learning and exploring new opportunities!
