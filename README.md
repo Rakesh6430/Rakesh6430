@@ -32,10 +32,10 @@
 
 <p align="left">
   <a href="mailto:rakeshroshanpaul@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin-right: 15px" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin-left:10px" />
   </a>
   <a href="https://rakesh6430.github.io/rakeshsqa-portfolio/index.html">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin-right: 15px" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin-left:10px" />
   </a>
   <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
