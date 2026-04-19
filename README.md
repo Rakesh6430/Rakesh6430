@@ -44,6 +44,12 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" height="45" style="margin-left:10px"/>
 </p>
 
+### 💻 API Testing
+<p>
+  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+</p>
+
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
