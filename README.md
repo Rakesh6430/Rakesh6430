@@ -50,10 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </p>
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="48"/>
 </p>
 
 ---
