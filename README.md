@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" height="48" style="margin-left:10px"/>
+  <img src="https://vectorseek.com/vector_logo/clickup-icon-logo-vector/" height="48" style="margin-left:10px"/>
 
   <!-- ChatGPT (OpenAI) -->
   <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="48" style="margin-left:10px"/>
