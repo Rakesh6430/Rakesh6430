@@ -52,7 +52,7 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,clickup,jira" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
 </p>
 
