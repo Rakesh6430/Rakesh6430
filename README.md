@@ -31,7 +31,7 @@
 <p>
   <!-- Email -->
   <a href="mailto:rakesh.roshanpaul1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contract-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- Portfolio -->
   <a href="https://rakesh6430.github.io/rakeshsqa.portfolio/index.html" target="_blank">
@@ -43,11 +43,11 @@
   </a>
 </p>
 
-## Connect With Me
+<!--## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:RAKESH.ROSHANPAUL1998@GMAIL.COM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rakesh-roshan-paul-343939143/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rakesh-roshan-paul-343939143/)-->
 
 ---
 
