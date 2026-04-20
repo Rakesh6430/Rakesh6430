@@ -24,9 +24,26 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **rakeshroshanpaul@gmail.com**
+<!--- 📧 Email: **rakeshroshanpaul@gmail.com**
 - 🌐 Portfolio: https://rakesh6430.github.io/rakeshsqa.portfolio/index.html
-- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/ -->
+
+<p>
+  <!-- Email -->
+  <a href="mailto:rakeshroshanpaul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rakeshroshanpaul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://rakesh6430.github.io/rakeshsqa.portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
