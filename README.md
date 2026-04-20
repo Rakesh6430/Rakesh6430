@@ -94,7 +94,6 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" height="40" style="margin-left:10px"/>
 </p>
 
----
 
 ---
 
