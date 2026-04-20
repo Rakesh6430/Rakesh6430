@@ -45,6 +45,12 @@
   </a>
 </p>
 
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:RAKESH.ROSHANPAUL1998@GMAIL.COM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rakesh-roshan-paul-343939143/)
+
 ---
 
 ## 🛠️ Tech Stack
