@@ -31,7 +31,7 @@
 <p>
   <!-- Email -->
   <a href="mailto:rakesh.roshanpaul1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rakesh.roshanpaul1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contract-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <!-- Portfolio -->
@@ -41,7 +41,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
