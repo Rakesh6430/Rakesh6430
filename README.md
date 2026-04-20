@@ -31,7 +31,7 @@
 <p>
   <!-- Email -->
   <a href="mailto:rakesh.roshanpaul1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-rakesh.roshanpaul1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <!-- Portfolio -->
