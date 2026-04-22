@@ -80,7 +80,7 @@
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_2023.svg" alt="Android Studio" height="48" style="margin-left:10px">
+  <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" height="48" style="margin-left:10px">
   <img src="https://jmeter.apache.org/images/favicon.png" alt="JMeter" height="48" style="margin-left:10px">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/clickup.svg" height="40" style="margin-left:10px"/>
