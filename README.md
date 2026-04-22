@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <!-- Portfolio -->
-  <a href="https://rakesh6430.github.io/rakeshsqa.portfolio/index.html" target="_blank">
+  <a href="https://rakesh6430.github.io/job-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <!-- LinkedIn -->
