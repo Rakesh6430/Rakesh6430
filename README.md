@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=tokyonight" /> -->
   <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
   <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" />
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Pranesh-2005&theme=radical)
+  <img src="https://streak-stats.demolab.com/?user=Pranesh-2005&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
