@@ -15,13 +15,16 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Rakesh6430&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=tokyonight" /> -->
-  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent" alt="Rakesh's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=radical" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent" alt="Rakesh's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
