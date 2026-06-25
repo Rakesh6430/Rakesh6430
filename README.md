@@ -1,40 +1,48 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
 <h3 align="center">SQA Engineer | Automation Enthusiast | Playwright Learner 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakesh6430&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rakesh6430?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Rakesh6430?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
+
 - 🚀 Passionate about **Software Quality Assurance & Automation**
 - 🔭 Currently working with **Playwright (JavaScript)**
 - 🧪 Experienced in **Manual & Automation Testing (Web & Mobile)**
 - 🤝 Strong believer in **quality, transparency, and teamwork**
 - 🎯 Focused on delivering **reliable and high-quality software**
+- 🧠 Exploring **AI-powered testing tools** (Claude CLI, Gemini CLI)
+- 📫 Reach me at: **rakesh.roshanpaul1998@gmail.com**
 
 ---
-
 
 ## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent" alt="Rakesh's GitHub stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent&hide_border=true" alt="Rakesh's GitHub stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<!--- 📧 Email: **rakeshroshanpaul@gmail.com**
-- 🌐 Portfolio: https://rakesh6430.github.io/rakeshsqa.portfolio/index.html
-- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-roshan-paul-343939143/ -->
-
-<p>
+<p align="center">
   <!-- Email -->
   <a href="mailto:rakesh.roshanpaul1998@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -47,65 +55,94 @@
   <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <!-- GitHub -->
+  <a href="https://github.com/Rakesh6430" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<!--## Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:RAKESH.ROSHANPAUL1998@GMAIL.COM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://rakesh6430.github.io/rakeshsqa.portfolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rakesh-roshan-paul-343939143/)-->
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
 </p>
 
-### 🧪 Testing Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/>
-  <img src="https://cdn.simpleicons.org/cypress" height="45" style="margin-left:10px"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="45" style="margin-left:10px"/>
+### 🧪 Testing & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
 </p>
 
 ### ⚡ API Testing
-<p>
-  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" style="margin-left:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
 </p>
 
 ### ⚙️ Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" height="48" style="margin-left:10px">
-  <img src="https://jmeter.apache.org/images/favicon.png" alt="JMeter" height="48" style="margin-left:10px">
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48" style="margin-left:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/clickup.svg" height="40" style="margin-left:10px"/>
-  
-  <!-- ChatGPT (OpenAI) -->
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="48" style="margin-left:10px"/>
-
-  <!-- Claude (Anthropic) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="40" style="margin-left:10px"/>
-
-  <!-- Gemini (Google - use generic Google AI fallback) -->
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" height="40" style="margin-left:10px"/>
+  <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/clickup.svg" height="40"/>
 </p>
 
+### 🤖 AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
+</p>
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [Sauce Demo UI Automation](https://github.com/Rakesh6430/sauce-demo-playwright) | Playwright, JavaScript, POM | Automated e-commerce flows with Page Object Model |
+| [Restful Booker API Testing](https://github.com/Rakesh6430/restful-booker-api) | Postman, REST API | End-to-end API testing covering CRUD operations |
+| [BlazeDemo Performance Testing](https://github.com/Rakesh6430/blazedemo-jmeter) | JMeter | Performance testing for response time and scalability |
+
+---
+
+## 📈 Work Experience Highlights
+
+| Company | Role | Key Contributions |
+| :--- | :--- | :--- |
+| **Shikho Technologies** | Software QA Engineer | • 3730+ test cases • 1601+ issues reported • 84% bug-free releases • 70% manual effort reduction via Playwright |
+
+---
+
+## 🎓 Certifications
+
+- ✅ **Claude 101 - AI Assistant Fundamentals** – Anthropic (May 2026)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Grow 100X Values Award 2025** – Recognized for outstanding performance and dedication to excellence
+
+---
 
 ## ⚡ Fun Fact
-💡 I’m passionate about learning and exploring new opportunities!
+
+💡 I'm passionate about learning, exploring AI-driven testing approaches, and embracing new challenges!
 
 ---
+
+<p align="center">
+  <i>“Quality is not an act, it's a habit.” – Aristotle</i>
+</p>
