@@ -29,7 +29,7 @@ I'm a **Software QA Engineer** at **[Shikho Technologies BD Ltd.](https://shikho
 - 🤖 I automate Web UI with **Playwright** using the **Page Object Model**, and lean on AI tools (**Claude CLI, Gemini CLI, GitHub Copilot**) to move faster.
 - 🔌 I test **REST & GraphQL** APIs end-to-end and trace backend data flow down to **Android Logcat**.
 - 👥 I've mentored newly onboarded QA engineers and partner closely with developers and product managers.
-- 🧠 Currently leveling up on **Cypress** and exploring **AI-driven testing** approaches.
+- 🧠 Currently leveling up on **Playwright** and exploring **AI-driven testing** approaches.
 - 📫 Reach me at **rakesh.roshanpaul1998@gmail.com**
 
 > *"Quality is not an act, it's a habit." — Aristotle*
