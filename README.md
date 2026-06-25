@@ -1,150 +1,127 @@
-<h1 align="center">Hi 👋, I'm Rakesh Roshan Paul</h1>
-<h3 align="center">SQA Engineer | Automation Enthusiast | Playwright Learner 🚀</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
+<a href="https://github.com/Rakesh6430">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rakesh+Roshan+Paul;Software+QA+Engineer;Automation+Enthusiast+%F0%9F%9A%80;Playwright+%7C+API+%7C+Performance+Testing" alt="Typing SVG" />
+</a>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=Rakesh6430&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rakesh6430?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Rakesh6430?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
+<p>
+  <a href="mailto:rakesh.roshanpaul1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://rakesh6430.github.io/job-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Rakesh6430" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working as a Software QA Engineer** at **Shikho Technologies** – one of Bangladesh's largest ed-tech platforms with 5M+ downloads and 3M+ students.
-- 🚀 **3+ years of experience** in ensuring quality for web and mobile applications through **Manual, API, Automation, Integration, and Performance Testing**.
-- 📈 **Key Impact**: Built **3,730+ test cases** across 32 features, reported **1,601+ issues** (~1,340 resolved), and contributed to **84% bug-free releases**.
-- 🤖 **Automation Expertise**: Automated Web UI using **Playwright** with **Page Object Model** – developed **500+ test cases** and reduced manual testing effort by **70%** using AI tools like **Claude CLI, Gemini CLI, and GitHub Copilot**.
-- 🔌 **API & Integration Testing**: Experienced in **REST and GraphQL API testing** using **Postman**, **GraphQL Inspector**, and **Android Studio Logcat** – validating request/response structures, payloads, and backend data flow.
-- 👥 **Leadership & Collaboration**: Mentored 2 newly onboarded QA engineers, collaborated cross-functionally with developers and product managers, and managed test code via **GitHub** with branch strategies and GitHub Actions.
-- 🧠 **Continuous Learner**: Passionate about exploring **AI-driven testing approaches**, currently learning **Cypress**, and always embracing new challenges to deliver high-quality software.
-- 🤝 Strong believer in **quality, transparency, and teamwork** – committed to delivering reliable, user-centric products.
-- 📫 Reach me at: **rakesh.roshanpaul1998@gmail.com**
+I'm a **Software QA Engineer** at **[Shikho Technologies](https://shikho.com)** — one of Bangladesh's largest ed-tech platforms with **5M+ downloads** and **3M+ students**. With **3+ years** of experience, I help ship reliable software through **manual, API, automation, integration, and performance testing**.
+
+- 🤖 I automate Web UI with **Playwright** using the **Page Object Model**, and lean on AI tools (**Claude CLI, Gemini CLI, GitHub Copilot**) to move faster.
+- 🔌 I test **REST & GraphQL** APIs end-to-end and trace backend data flow down to **Android Logcat**.
+- 👥 I've mentored newly onboarded QA engineers and partner closely with developers and product managers.
+- 🧠 Currently leveling up on **Cypress** and exploring **AI-driven testing** approaches.
+- 📫 Reach me at **rakesh.roshanpaul1998@gmail.com**
+
+> *"Quality is not an act, it's a habit." — Aristotle*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Impact at a Glance
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent&hide_border=true" alt="Rakesh's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+| 🧪 Test Cases | 🐞 Issues Reported | ✅ Bug-Free Releases | ⚡ Manual Effort Saved |
+| :---: | :---: | :---: | :---: |
+| **3,730+** across 32 features | **1,601+** (~1,340 resolved) | **84%** | **70%** via Playwright |
 
----
+</div>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:rakesh.roshanpaul1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <!-- Portfolio -->
-  <a href="https://rakesh6430.github.io/job-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rakesh-roshan-paul-343939143/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/Rakesh6430" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+🏆 **Grow 100X Values Award 2025** — recognized for outstanding performance and dedication to excellence.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp" />
-</p>
+**Testing & Automation**
 
-### 🧪 Testing & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-</p>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### ⚡ API Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
+**APIs & Databases**
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-</p>
+![REST](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="Android Studio" height="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/clickup.svg" height="40"/>
-</p>
+**Languages**
 
-### 🤖 AI Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Tech Stack | What It Does |
 | :--- | :--- | :--- |
-| [Sauce Demo UI Automation](https://github.com/Rakesh6430/sauce-demo-playwright) | Playwright, JavaScript, POM | Automated e-commerce flows with Page Object Model |
-| [Restful Booker API Testing](https://github.com/Rakesh6430/restful-booker-api) | Postman, REST API | End-to-end API testing covering CRUD operations |
-| [BlazeDemo Performance Testing](https://github.com/Rakesh6430/blazedemo-jmeter) | JMeter | Performance testing for response time and scalability |
+| 🛒 [Sauce Demo UI Automation](https://github.com/Rakesh6430/sauce-demo-playwright) | Playwright · JavaScript · POM | Automated e-commerce flows built on the Page Object Model |
+| 🏨 [Restful Booker API Testing](https://github.com/Rakesh6430/restful-booker-api) | Postman · REST API | End-to-end API suite covering full CRUD operations |
+| ✈️ [BlazeDemo Performance Testing](https://github.com/Rakesh6430/blazedemo-jmeter) | JMeter | Load & response-time testing for scalability |
 
 ---
 
-## 📈 Work Experience Highlights
+## 💼 Experience
 
-| Company | Role | Key Contributions |
-| :--- | :--- | :--- |
-| **Shikho Technologies** | Software QA Engineer | • 3730+ test cases • 1601+ issues reported • 84% bug-free releases • 70% manual effort reduction via Playwright |
+**Software QA Engineer** — *Shikho Technologies* `(3+ yrs)`
+Owned quality across web & mobile for a 3M+ student platform: authored **3,730+ test cases**, reported **1,601+ issues**, drove **84% bug-free releases**, and cut manual testing effort **70%** through Playwright automation while mentoring junior QA engineers.
 
 ---
 
 ## 🎓 Certifications
 
-- ✅ **Claude 101 - AI Assistant Fundamentals** – Anthropic (May 2026)
+- ✅ **Claude 101 — AI Assistant Fundamentals** · Anthropic (May 2026)
 
 ---
 
-## 🏆 Achievements
+## 📈 GitHub Stats
 
-- 🥇 **Grow 100X Values Award 2025** – Recognized for outstanding performance and dedication to excellence
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Rakesh6430&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Rakesh6430&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rakesh6430&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I'm passionate about learning, exploring AI-driven testing approaches, and embracing new challenges!
-
----
-
-<p align="center">
-  <i>“Quality is not an act, it's a habit.” – Aristotle</i>
-</p>
+<div align="center">
+  <i>💡 Always exploring AI-driven testing and chasing the next challenge.</i>
+</div>
