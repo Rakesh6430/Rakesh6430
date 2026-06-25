@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software QA Engineer** at **[Shikho Technologies](https://shikho.com)** — one of Bangladesh's largest ed-tech platforms with **5M+ downloads** and **3M+ students**. With **3+ years** of experience, I help ship reliable software through **manual, API, automation, integration, and performance testing**.
+I'm a **Software QA Engineer** at **[Shikho Technologies BD Ltd.](https://shikho.com)** — one of Bangladesh's largest ed-tech platforms with **5M+ downloads** and **3M+ students**. With **3+ years** of experience, I help ship reliable software through **manual, API, automation, integration, and performance testing**.
 
 - 🤖 I automate Web UI with **Playwright** using the **Page Object Model**, and lean on AI tools (**Claude CLI, Gemini CLI, GitHub Copilot**) to move faster.
 - 🔌 I test **REST & GraphQL** APIs end-to-end and trace backend data flow down to **Android Logcat**.
@@ -98,7 +98,7 @@ I'm a **Software QA Engineer** at **[Shikho Technologies](https://shikho.com)** 
 
 ## 💼 Experience
 
-**Software QA Engineer** — *Shikho Technologies* `(3+ yrs)`
+**Software QA Engineer** — *Shikho Technologies BD Ltd.* `(3+ yrs)`
 Owned quality across web & mobile for a 3M+ student platform: authored **3,730+ test cases**, reported **1,601+ issues**, drove **84% bug-free releases**, and cut manual testing effort **70%** through Playwright automation while mentoring junior QA engineers.
 
 ---
